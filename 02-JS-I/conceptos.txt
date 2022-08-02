@@ -1,0 +1,24 @@
+
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+Aqui podemos guardar algo que queramos para luego ejecutarlas.
+se le asigna un nombre, no pueden comezanr en mayusculas, ni con un numero, y depsues se le asigna una valor.
+se le puede asignar un nombre que va entre comillas, un numero que va sin comillas un valor booleano entre otros.
+ej var nombre='Tatiana';
+Hay tres tipos de variables
+var,
+let 
+const esta no se puede reasignar el valor.
+ * Strings
+es un tipo de datos que consta de  palabras o caracteres que van entre comillas, 
+ * Funciones (argumentos, `return`)
+
+ Las funciones nos ayudan a agrupar codigo para luego ejecutarlo.
+ pueden o no tener argumentos que es lo que se ejecutara, y return es una sentencia que finaliza la ejecucion de la funcion.
+ * Declaraciones `if`
+
+ if es un condicional donde se ejecuta el codigo solo si se cumple esa condicion, esta el condicional if else, y else if que si no se cumple lo que sale en el if, se puede cumplir lo que salga en el else if
+ * Valores booleanos (`true`, `false`)
+ los valores booleanos son valores de verdad, y es un tipo de datos en js.
+
