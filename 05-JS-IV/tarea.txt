@@ -1,0 +1,24 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+    Objetos
+    es una coleccion de propiedades, pueden ir valores de todos los tipos de datos, no es necesario que lleven un orden.
+    propiedades
+    es la asociacion entre un nombre y un valor que va dentro de los objetos.
+    Metodos
+    son las funciones que van dentro de un objeto
+    Bucle for in 
+    es una propiedad que sirve para acceder a los valores de los objetos.
+    Notacion de puntos
+    es una de las formas de acceder a los objetos y sus propiedades ejemplos 
+    objeto.nombre;
+
+Notacion de corchetes
+es la otra de forma de llamar o acceder a las propiedades de los objetos
+
+objeto['nombre'];
