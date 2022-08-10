@@ -1,0 +1,39 @@
+*{
+    background-image: url("imagenes/italia.jpg");
+    
+}
+
+
+h1{
+  color: red;  
+}
+
+img{
+    width:400px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background:pink;
+    padding:50px;
+    border: 30px plum radius;
+}
+
+#spanId{
+font-size:18px;
+margin:50px;
+}
+
+.divClass{
+    color:white;
+    text-align: center;
+}
